@@ -2,7 +2,7 @@
 ### 👀 Thanks for visiting!  
 See how many people have checked out my GitHub profile:
   
-![Profile Views](https://komarev.com/ghpvc/?username=KAOS-CODM&label=Profile%20views&color=0e75b6&style=flat))
+![Profile Views](https://komarev.com/ghpvc/?username=KAOS-CODM&label=Profile%20views&color=0e75b6&style=flat)
 
 <!-- Typing SVG Intro -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Isaiah+Adelowo;Frontend+Web+Developer;Landing+Page+and+Portfolio+Specialist;Node.js+and+JavaScript+Enthusiast;Clean+Code+%7C+Great+User+Experience)](https://git.io/typing-svg)
