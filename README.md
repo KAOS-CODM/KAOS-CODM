@@ -1,6 +1,10 @@
 <!-- Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=KAOS-CODM&label=Profile%20views&color=0e75b6&style=flat)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=KAOS-CODM&theme=tokyonight)
+
+https://github-profile-trophy.vercel.app/?username=KAOS-CODM&theme=tokyonight
+
 <!-- Typing SVG Intro -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Isaiah+Adelowo;Frontend+Web+Developer;Landing+Page+and+Portfolio+Specialist;Node.js+and+JavaScript+Enthusiast;Clean+Code+%7C+Great+User+Experience)](https://git.io/typing-svg)
 
