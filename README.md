@@ -57,7 +57,7 @@
 - [Cloudinary](https://cloudinary.com/) for image hosting
 - [Render](https://render.com/) for backend hosting
 - [Firebase](https://firebase.google.com/) for frontend hosting
-- [Firebase](https://supabase.com) for database hosting
+- [Supabase](https://supabase.com) for database hosting
   
 
 ### [Comic Website](https://github.com/KAOS-CODM/fantomixx) – Dynamic content loading with external HTML chapters.
