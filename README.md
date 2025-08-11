@@ -93,7 +93,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/KAOS-CODM/KAOS-CODM/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/KAOS-CODM/KAOS-CODM/main/dist/snake.svg)
 
 ---
 
