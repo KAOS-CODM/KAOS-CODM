@@ -35,13 +35,13 @@ See how many people have checked out my GitHub profile:
 ## 🚀 Featured Projects
 ### [Dynamic Recipe App](https://github.com/KAOS-CODM/PRAROZ) – JSON-based web contents, and database recipe storage & filtering.
 <h4>Screenshots</h4>
-<p align="center">
-  <img src="assets/screenshots/homepage.jpg" width="200"/>
-  <img src="assets/screenshots/Admin.jpg" width="200"/>
-  <img src="assets/screenshots/page.jpg" width="200"/>
-  <img src="assets/screenshots/recipe.jpg" width="200"/>
-  <img src="assets/screenshots/submission.jpg" width="200"/>
-</p>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
+  <img src="assets/screenshots/homepage.jpg" alt="Homepage" style="width: 180px; object-fit: contain;"/>
+  <img src="assets/screenshots/Admin.jpg" alt="Admin Panel" style="width: 180px; object-fit: contain;"/>
+  <img src="assets/screenshots/page.jpg" alt="Recipe Page" style="width: 180px; object-fit: contain;"/>
+  <img src="assets/screenshots/recipe.jpg" alt="Recipe Contents" style="width: 180px; object-fit: contain;"/>
+  <img src="assets/screenshots/submission.jpg" alt="Recipe Submission Page" style="width: 180px; object-fit: contain;"/>
+</div>
 #### Features
 - 📜 Dynamic recipe list from Supabase
 - 🔍 Instant search with live filtering
