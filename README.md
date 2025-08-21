@@ -42,6 +42,7 @@ See how many people have checked out my GitHub profile:
   <img src="assets/screenshots/recipe.jpg" alt="Recipe Contents" style="width: 180px; object-fit: contain;"/>
   <img src="assets/screenshots/submission.jpg" alt="Recipe Submission Page" style="width: 180px; object-fit: contain;"/>
 </div>
+
 #### Features
 - 📜 Dynamic recipe list from Supabase
 - 🔍 Instant search with live filtering
