@@ -12,7 +12,7 @@ See how many people have checked out my GitHub profile:
 
 ---
 
-📌 Quick Links: [Dynamic Recipe App](#dynamic-recipe-app) • [Comic Website](#comic-website) • [Portfolio Website](#portfolio-website)
+📌 Quick Links: [Dynamic Recipe App](#Dynamic-Recipe-App) • [Comic Website](#Comic-Website) • [Portfolio Website](#Portfolio-Website)
 
 ---
 
@@ -20,14 +20,14 @@ See how many people have checked out my GitHub profile:
 - 🎓 Computer Science student at Abubakar Tafawa Balewa University.
 - 💻 Passionate about **web programming** & clean UI design.
 - ⚡ Currently working on: dynamic websites using HTML, CSS, JS, and Node.js.
-- 📫 Reach me: [Email Me](mailto:kaoskonseptech@gmail.com) | [Portfolio Website](https://isaiahwebdev-portfolio.web.app/)
+- 📫 Reach me: [Email Me](mailto:kaoskonseptech@gmail.com) | [Portfolio Website](https://kaos-codm.github.io/portfolio/)
 
 ### 🎯 Fun Facts
 - 💡 I once debugged a problem for 3 hours, only to realize I forgot a semicolon.
 - 🕒 My “5-minute break” usually turns into a new side project.
 - 🖌️ I design better at night, but my best code is written in the morning.
 - 🛠️ I sometimes build tools I don’t *need*… just because I can.
-- 🍕 Fuel of cho
+- 🍕 Fuel of choice
 - ice: Pizza and coffee (sometimes together… no regrets).
 
 ---
@@ -41,7 +41,7 @@ See how many people have checked out my GitHub profile:
 ![Recipe Contents](assets/screenshots/recipe.jpg)
 ![Recipe Submission Page](assets/screenshots/submission.jpg)
 #### Features
-- 📜 Dynamic recipe list from supabase
+- 📜 Dynamic recipe list from Supabase
 - 🔍 Instant search with live filtering
 - 📂 Admin approval system for new recipes
 - ☁️ Image uploads with Cloudinary
