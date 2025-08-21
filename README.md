@@ -12,7 +12,7 @@ See how many people have checked out my GitHub profile:
 
 ---
 
-📌 Quick Links: [Dynamic Recipe App](#Dynamic-Recipe-App) • [Comic Website](#Comic-Website) • [Portfolio Website](#Portfolio-Website)
+📌 Quick Links: [Dynamic Recipe App](#dynamic-recipe-app) • [Comic Website](#comic-website) • [Portfolio Website](#portfolio-website)
 
 ---
 
