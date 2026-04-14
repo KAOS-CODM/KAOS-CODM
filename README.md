@@ -74,7 +74,7 @@ See how many people have checked out my GitHub profile:
 
 ### [Comic Website](https://github.com/KAOS-CODM/fantomixx) – Dynamic content loading with external HTML chapters.
 ### [Portfolio Website](https://github.com/KAOS-CODM/portfolio) – Fully responsive one-pager portfolio.
-
+### [PDF-CBZ Connverter](https://github.com/KAOS-CODM/portfolio) – File converter for manga readers.
 ---
 
 ## 🛠 Tech Stack  
@@ -94,6 +94,7 @@ See how many people have checked out my GitHub profile:
 | 🍳 **Dynamic Recipe App** | Recipe submission, search, and comment system with JSON storage. | HTML, CSS, JS, Node.js |
 | 📚 **Comic Website** | Dynamic chapters from external HTML & JSON with responsive layout. | HTML, CSS, JS |
 | 🖼 **Portfolio Website** | One-page design with auto-scrolling slideshow from JSON data. | HTML, CSS, JS |
+| 📂 **PDF-CBZ converter** | A one interface/page desktop app, that converts pdf into readble cbz files| Python |
 
 ---
 
