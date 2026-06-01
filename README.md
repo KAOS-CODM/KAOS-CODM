@@ -12,7 +12,7 @@ See how many people have checked out my GitHub profile:
 
 ![](https://github-profile-trophy.screw-hand.vercel.app/?username=KAOS-CODM)
 
-> Frontend developer building responsive websites and interactive projects with clean design and fast performance.
+> Frontend developer building responsive websites and interactive projects with clean design and fast performance. Thanks
 
 ---
 
