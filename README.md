@@ -33,10 +33,10 @@ blindly.
 
 Turns real website scan findings into a prioritized rescue plan with AI-powered explanations and developer-ready fixes. The scanner is the source of truth — the AI only receives structured scanner evidence, which it explains, prioritizes, and converts into useful work. It does not invent findings.
 
-**Status:** Active
-**Stack:** Node.js · Express · Cheerio · Tailwind CSS · OpenRouter · PWA / Service Worker
-**Live:** [site-rescue.onrender.com](https://site-rescue.onrender.com/)
-**Source:** [github.com/KAOS-CODM/site-rescue](https://github.com/KAOS-CODM/site-rescue)
+**Status:** Active  
+**Stack:** Node.js · Express · Cheerio · Tailwind CSS · OpenRouter · PWA / Service Worker  
+**Live:** [site-rescue.onrender.com](https://site-rescue.onrender.com/)  
+**Source:** [GitHub](https://github.com/KAOS-CODM/site-rescue)  
 
 ---
 
@@ -44,10 +44,10 @@ Turns real website scan findings into a prioritized rescue plan with AI-powered 
 
 A Nimiq Mini App for shared/group savings circles — members contribute NIM toward a shared goal, and resulting transactions are verified before counting toward progress. Built for the Nimiq Mini Apps Competition (Cycle II).
 
-**Status:** Competition project
-**Stack:** React 19 · TypeScript · Vite · Express · Mongoose · Nimiq Mini App SDK
-**Live:** [nimcircle.vercel.app](https://nimcircle.vercel.app/)
-**Source:** [github.com/KAOS-CODM/nimcircle](https://github.com/KAOS-CODM/nimcircle)
+**Status:** Competition project  
+**Stack:** React 19 · TypeScript · Vite · Express · Mongoose · Nimiq Mini App SDK  
+**Live:** [nimcircle.vercel.app](https://nimcircle.vercel.app/)  
+**Source:** [GitHub](https://github.com/KAOS-CODM/nimcircle)  
 
 ---
 
@@ -55,10 +55,10 @@ A Nimiq Mini App for shared/group savings circles — members contribute NIM tow
 
 A full-stack recipe platform with recipe browsing, search, submission workflows, admin approval, and Cloudinary-powered image management. (Comment system planned, not yet implemented.)
 
-**Status:** Deployed
-**Stack:** JavaScript · Express · MongoDB / Mongoose · Cloudinary · JWT auth
-**Live:** [praroz.onrender.com](https://praroz.onrender.com/)
-**Source:** [github.com/KAOS-CODM/PRAROZ](https://github.com/KAOS-CODM/PRAROZ)
+**Status:** Deployed  
+**Stack:** JavaScript · Express · MongoDB / Mongoose · Cloudinary · JWT auth  
+**Live:** [praroz.onrender.com](https://praroz.onrender.com)  
+**Source:** [GitHub](https://github.com/KAOS-CODM/PRAROZ)  
 
 ---
 
@@ -66,9 +66,9 @@ A full-stack recipe platform with recipe browsing, search, submission workflows,
 
 A property-listing platform with public browsing, search, filtering, and a JWT-protected admin dashboard for managing listings.
 
-**Status:** Functional
-**Stack:** TypeScript · JavaScript · Express · MongoDB / Mongoose · JWT
-**Source:** [github.com/KAOS-CODM/Cee-Kee-Zy](https://github.com/KAOS-CODM/Cee-Kee-Zy)
+**Status:** Functional  
+**Stack:** TypeScript · JavaScript · Express · MongoDB / Mongoose · JWT  
+**Source:** [GitHub](https://github.com/KAOS-CODM/Cee-Kee-Zy)  
 
 ---
 
@@ -78,20 +78,20 @@ A property-listing platform with public browsing, search, filtering, and a JWT-p
 
 An earlier website-auditing tool for surfacing technical, SEO, and UX issues. Site Rescue is a separate project built independently from an empty repository — it is not a rename of Site Scout.
 
-**Source:** [github.com/KAOS-CODM/webscout](https://github.com/KAOS-CODM/webscout)
+**Source:** [GitHub](https://github.com/KAOS-CODM/webscout)  
 
 ### BindrApp
 
 A Python desktop utility for converting PDF files into readable CBZ comic/manga archives, with sorting, batch preview, and image optimization. Bundles Poppler (native C++ components) and is packaged with PyInstaller.
 
-**Source:** [github.com/KAOS-CODM/BindrApp](https://github.com/KAOS-CODM/BindrApp)
+**Source:** [GitHub](https://github.com/KAOS-CODM/BindrApp)  
 
 ### Fantomixx
 
 A self-hosted comic library web app: public browsing/reading, plus an authenticated admin area for metadata and CBZ chapter uploads. Express backend with PocketBase, Cloudinary, and Supabase.
 
-**Status:** Codebase present; current Render deployment not responding
-**Source:** [github.com/KAOS-CODM/fantomixx](https://github.com/KAOS-CODM/fantomixx)
+**Status:** Codebase present; current Render deployment not responding  
+**Source:** [GitHub](https://github.com/KAOS-CODM/fantomixx)  
 
 ---
 
@@ -112,7 +112,7 @@ Git · GitHub · Docker · Cheerio · PyInstaller
 **AI**
 OpenRouter
 
-Currently exploring: React (getting more comfortable), AI-assisted development workflows.
+Currently exploring: deeper React patterns, AI-assisted development workflows, developer tooling, and secure web practices.
 
 ---
 
@@ -133,11 +133,7 @@ Currently exploring: React (getting more comfortable), AI-assisted development w
 
 ## Connect
 
-- GitHub: [github.com/KAOS-CODM](https://github.com/KAOS-CODM)
+- GitHub: [KAOS-CODM](https://github.com/KAOS-CODM)
 - Portfolio: [isaiahwebdev.onrender.com](https://isaiahwebdev.onrender.com/)
 - Fiverr: [fiverr.com/isaiahwebdev](https://www.fiverr.com/isaiahwebdev)
 - Email: [kaoskonseptech@gmail.com](mailto:kaoskonseptech@gmail.com)
-
----
-
-Building practical software, one clean commit at a time.
