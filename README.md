@@ -1,135 +1,111 @@
-<!-- Profile Views -->
+# Isaiah Yemi Adelowo
 
-### 👀 Thanks for visiting!
+**Software Engineer / Full-Stack Web Developer**
 
-See how many people have checked out my GitHub profile:
-
-![Profile Views](https://komarev.com/ghpvc/?username=KAOS-CODM&label=Profile%20views&color=0e75b6&style=flat)
-
-<!-- Typing SVG Intro -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Isaiah+Adelowo;Frontend+Web+Developer;Landing+Page+and+Portfolio+Specialist;Node.js+and+JavaScript+Enthusiast;Clean+Code+%7C+Great+User+Experience)](https://git.io/typing-svg)
-
-![](https://github-profile-trophy.screw-hand.vercel.app/?username=KAOS-CODM)
-
-> Frontend developer building responsive websites and interactive projects with clean design and fast performance. Thanks
+Software engineer building practical web applications, developer tools, and AI-assisted systems.
 
 ---
 
-📌 Quick Links: [About Me](#about-me) • [Featured Projects](#featured-projects) • [Tech Stack](#tech-stack) • [Connect With Me](#connect-with-me)
+## About Me
+
+I'm a 400-level Computer Science student based in Abuja, Nigeria, focused on
+building software that is practical, useful, and well-crafted. I enjoy working
+across the stack — from responsive interfaces to backend services — and I'm
+particularly interested in web development, AI-assisted software development,
+developer tooling, and cybersecurity.
 
 ---
 
-<a id="about-me"></a>
+## What I Build
 
-## 👋 About Me
-
-- 🎓 Computer Science student at Abubakar Tafawa Balewa University.
-- 💻 Passionate about **web programming**, clean UI, and polished user experiences.
-- ⚡ Currently building responsive web apps with **HTML, CSS, JavaScript, and Node.js**.
-- 🌱 Learning modern frontend tools while sharpening my skills on freeCodeCamp.
-- 🚀 Exploring React, component-based UI, and modern frontend workflows.
-- 📫 Reach me: [Email Me](mailto:kaoskonseptech@gmail.com) | [Portfolio Website](https://isaiahwebdev.onrender.com)
-
-### 🎯 Fun Facts
-
-- 💡 I love turning design ideas into polished web pages using HTML, CSS, and JavaScript.
-- 🕒 Most of my best learning happens while studying freeCodeCamp and exploring new frontend tools.
-- 🖌️ I enjoy creating clean, responsive landing pages that look great on both desktop and mobile.
-- 🛠️ I often experiment with small projects to sharpen my skills and try new UI techniques.
-- 🌍 I’m passionate about building websites that deliver strong user experiences and fast performance.
+- Web applications
+- Developer tools
+- AI-assisted systems
+- APIs / backend services
+- Experimental & hackathon projects
 
 ---
 
-<a id="featured-projects"></a>
+## Featured Projects
 
-## 🚀 Featured Projects
+### [Site Rescue](https://github.com/KAOS-CODM/site-rescue)
 
-### [Dynamic Recipe App](https://github.com/KAOS-CODM/PRAROZ)
+An AI-assisted website audit and rescue-planning tool. It scans real websites,
+produces evidence-backed findings, prioritizes what should be fixed, and turns
+those findings into developer-ready tasks. The scanner is the source of truth —
+AI explains, prioritizes, and converts scanner evidence into useful work.
 
-Bespoke recipe platform with search, approval workflows, and Cloudinary-powered image uploads.
+- Live: [site-rescue.onrender.com](https://site-rescue.onrender.com/)
+- Stack: Node.js, Express, MongoDB, AI via OpenRouter
 
-- 📌 Live recipe search and dynamic filtering
-- 🔐 Admin approval workflow for new recipe submissions
-- ☁️ Cloudinary image uploads for content management
-- 📱 Fully responsive design for desktop and mobile
-- 🧩 Built with HTML, CSS, JavaScript, Node.js, Express, and JSON data storage
-- 🏷️ Full-stack web app
-- 🔗 Source: [github.com/KAOS-CODM/PRAROZ](https://github.com/KAOS-CODM/PRAROZ)
+### [NimCircle](https://github.com/KAOS-CODM/nimcircle)
 
-### [Comic Website](https://github.com/KAOS-CODM/fantomixx)
+A Nimiq Mini App concept for shared/group savings.
 
-Modern comic reader with external chapter loading and responsive reading experience.
+### AgentProof
 
-- 📚 Loads chapters from external HTML files
-- 🎨 Smooth mobile-first reading experience
-- ⚡ Lightweight structure with fast navigation
-- 🛠 Built with HTML, CSS, and JavaScript
-- 🏷️ Frontend UI + responsive reading experience
-- 🔗 Source: [github.com/KAOS-CODM/fantomixx](https://github.com/KAOS-CODM/fantomixx)
+A PayPal AI Hackathon project currently being developed — an authorization,
+state, and evidence layer for AI agents handling PayPal payments, designed
+around deterministic policy checks, payment state, and financial evidence.
 
-### [Portfolio Website](https://github.com/KAOS-CODM/portfolio)
+### More Projects
 
-Responsive one-page portfolio showcasing projects and skills.
+- [Dynamic Recipe App](https://github.com/KAOS-CODM/PRAROZ) — recipe platform with search, approval workflows, and Cloudinary image uploads
+- [Comic Website](https://github.com/KAOS-CODM/fantomixx) — lightweight comic reader with external chapter loading
+- [PDF-CBZ Converter](https://github.com/KAOS-CODM/BindrApp) — Python utility for converting PDFs into readable CBZ archives
+- [Portfolio Website](https://github.com/KAOS-CODM/portfolio) — responsive one-page portfolio ([live](https://isaiahwebdev.onrender.com))
 
-- ✨ Clean landing page design
-- 📂 Auto-scrolling project showcase
-- 🌐 Fast, accessible browsing
-- 🛠 Built with HTML, CSS, and JavaScript
-- 🌐 Live demo: https://isaiahwebdev.onrender.com
-- 🔗 Source: [github.com/KAOS-CODM/portfolio](https://github.com/KAOS-CODM/portfolio)
+### Earlier Work
 
-### [PDF-CBZ Converter](https://github.com/KAOS-CODM/BindrApp)
-
-Utility to convert PDF files into readable CBZ archives.
-
-- 📁 Easy PDF-to-CBZ conversion workflow
-- 💾 Simple desktop-style interface
-- 🐍 Built with Python
-- 🏷️ Python utility project
-- 🔗 Source: [github.com/KAOS-CODM/BindrApp](https://github.com/KAOS-CODM/BindrApp)
+- **Site Scout** — an earlier website auditing tool focused on identifying site
+  issues across technical, SEO, and UX categories. (Site Rescue was built
+  separately from an empty project; it is not a renamed Site Scout.)
 
 ---
 
-<a id="tech-stack"></a>
+## Tech Stack
 
-## 🛠 Tech Stack
+**Frontend**
+HTML · CSS · JavaScript · Tailwind CSS · Progressive Web Apps
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Backend**
+Node.js · Express.js · Python · FastAPI
 
-**Key tools:** HTML | CSS | JavaScript | Node.js | Firebase | Git | VS Code
+**Data / Services**
+MongoDB / Mongoose · Firebase · Supabase · Cloudinary
+
+**Tools**
+Git / GitHub · VS Code · Puppeteer · Cheerio
+
+**AI / Automation**
+OpenRouter · Puppeteer / Cheerio scraping pipelines
+
+Currently exploring: React (still early for me), deeper AI-assisted development workflows.
 
 ---
 
-## 📊 GitHub Stats
+## Currently Building / Exploring
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=KAOS-CODM&theme=tokyonight)
+- **AgentProof** — the PayPal AI Hackathon project described above (in development)
+- AI-assisted software development workflows
+- Developer tooling
+- Cybersecurity fundamentals and secure web practices
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 ![Contribution Snake](https://raw.githubusercontent.com/KAOS-CODM/KAOS-CODM/main/github-contribution-grid-snake.svg)
 
 ---
 
-<a id="connect-with-me"></a>
+## Connect
 
-## 🌐 Connect With Me
-
-Interested in a web project? Let’s connect!
-
-- [GitHub](https://github.com/KAOS-CODM)
-- [Fiverr](https://www.fiverr.com/isaiahwebdev)
-- [Email](mailto:kaoskonseptech@gmail.com)
-- [Portfolio](https://isaiahwebdev.onrender.com)
+- GitHub: [github.com/KAOS-CODM](https://github.com/KAOS-CODM)
+- Portfolio: [isaiahwebdev.onrender.com](https://isaiahwebdev.onrender.com)
+- Fiverr: [fiverr.com/isaiahwebdev](https://www.fiverr.com/isaiahwebdev)
+- Email: [kaoskonseptech@gmail.com](mailto:kaoskonseptech@gmail.com)
 
 ---
 
-💡 _"Clean code, clear design, great user experience — that’s my motto."_
+Building practical software, one clean commit at a time.
